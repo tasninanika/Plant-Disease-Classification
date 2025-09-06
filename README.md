@@ -13,7 +13,6 @@
 ---
 
 ## 📜 Project Overview
-
 The **Plant Disease Classification** project aims to automatically detect and classify plant leaf diseases using the **PlantVillage dataset** consisting of **38 classes**. Implemented in a Colab Notebook, the workflow includes data preprocessing, augmentation, model building Custom CNN & MobileNetV2, training, and evaluation.
 
 **Key highlight**: MobileNetV2 achieved **\~99% accuracy**, outperforming the baseline CNN (\~96% accuracy).
