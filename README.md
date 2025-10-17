@@ -94,7 +94,6 @@ We also experimented with VGG16 and EfficientNet for transfer learning, but they
 
 ## ✨ Contributors
 
-Special thanks to the contributors who brought this project to life:
 - **[Jarin Tasnin Anika](https://github.com/tasninanika)**
 - **[Suprio Das](https://github.com/Suprio-Das)**
 
