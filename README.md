@@ -89,3 +89,21 @@ The **Plant Disease Classification** project aims to automatically detect and cl
 ## ⚠️ Other Models Tried
 
 We also experimented with VGG16 and EfficientNet for transfer learning, but they didn’t give satisfactory results on this dataset compared to MobileNetV2. Hence, MobileNetV2 was chosen as the main model.
+
+---
+
+## ✨ Contributors
+
+Special thanks to the contributors who brought this project to life:
+- **[Jarin Tasnin Anika](https://github.com/tasninanika)**
+- **[Suprio Das](https://github.com/Suprio-Das)**
+
+---
+
+## 📫 Contact
+
+For any queries or contributions:
+- Email: [jarintasnin27@gmail.com](mailto:jarintasnin27@gmail.com)
+- GitHub: [Jarin Tasnin Anika](https://github.com/tasninanika)
+- Email: [suprio.cse@gmail.com](mailto:suprio.cse@gmail.com)
+- GitHub: [Suprio-Das](https://github.com/Suprio-Das)
