@@ -88,4 +88,4 @@ The **Plant Disease Classification** project aims to automatically detect and cl
 
 ## ⚠️ Other Models Tried
 
-I also experimented with VGG16 and EfficientNet for transfer learning, but they didn’t give satisfactory results on this dataset compared to MobileNetV2. Hence, MobileNetV2 was chosen as the main model.
+We also experimented with VGG16 and EfficientNet for transfer learning, but they didn’t give satisfactory results on this dataset compared to MobileNetV2. Hence, MobileNetV2 was chosen as the main model.
